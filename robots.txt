@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yukawashouhei.github.io/catninja-support/sitemap.xml
